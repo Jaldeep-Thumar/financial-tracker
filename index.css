@@ -1,15 +1,1 @@
-#head
-{
-    display: flex;
-    justify-content:center;  
-}
 
-#box
-{
-    height:100px;
-    width:100px;
-    border: 2px solid black;
-    border-radius: 50%;
-    text-align: center;
-  
-}
